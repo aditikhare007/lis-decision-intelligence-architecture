@@ -1,20 +1,12 @@
 # 🚀 LIS v1.0 — Layered Intelligence Stack  
 ### Decision Intelligence Architecture  
+    Decision → Agent → Context → Evaluation → Trust — a structured view of enterprise AI system design and execution layers.
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Architecture](https://img.shields.io/badge/architecture-layered-blue)
-![Domain](https://img.shields.io/badge/domain-decision--intelligence-purple)
-![License](https://img.shields.io/badge/license-MIT-black)
-
----
-
-## 📌 Author  
+ ## 📌 Author  
 
 **Aditi Khare**  
 Enterprise AI Product & Platform Leader  
 GenAI • Agentic Systems • Decision Intelligence  
-
----
 
 ## 🌐 Presence  
 
