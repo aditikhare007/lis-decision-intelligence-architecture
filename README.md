@@ -13,7 +13,7 @@ GenAI • Agentic Systems • Decision Intelligence
 ## 🌐 Presence  
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 **GitHub:** [Github](https://github.com/aditikhare007/lis-decision-intelligence-architecture)  
+🔗 **GitHub:** [View on Github](https://github.com/aditikhare007/lis-decision-intelligence-architecture)  
 🤗 **Hugging Face:** [Live Product](https://huggingface.co/spaces/AditiShashiKhare/LIS-Decision-Intelligence-Architecture)  
 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
