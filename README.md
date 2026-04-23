@@ -8,7 +8,9 @@
 Enterprise AI Product & Platform Leader  
 GenAI • Agentic Systems • Decision Intelligence  
 
-🌐 Presence
+---
+
+## 🌐 Presence  
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 🔗 **GitHub:** [aditikhare007](https://github.com/aditikhare007/lis-decision-intelligence-architecture)  
