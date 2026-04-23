@@ -46,34 +46,34 @@ enabling AI systems to operate as **closed-loop, self-improving decision engines
 
 LIS organizes AI into five interacting layers:
 
-┌─────────────────────────────────────────────┐
-│ TRUST │
-│ Monitoring • Alignment • Governance │
-└─────────────────────────────────────────────┘
-▲
-┌─────────────────────────────────────────────┐
-│ EVALUATION │
-│ Confidence • Risk • Feedback Loops │
-└─────────────────────────────────────────────┘
-▲
-┌─────────────────────────────────────────────┐
-│ DECISION │
-│ Outcomes • Prioritization • Actions │
-│ (IntelliScope) │
-└─────────────────────────────────────────────┘
-▲
-┌─────────────────────────────────────────────┐
-│ AGENT │
-│ Reasoning • Planning • Orchestration │
-│ (Agent Factory) │
-└─────────────────────────────────────────────┘
-▲
-┌─────────────────────────────────────────────┐
-│ CONTEXT │
-│ RAG • Knowledge Graphs • Data Layer │
-│ (IntelliMesh) │
-└─────────────────────────────────────────────┘
-
+    ┌──────────────┐
+    │    TRUST     │
+    │ Monitoring   │
+    │ Alignment    │
+    │ Governance   │
+    └──────▲───────┘
+           │
+    ┌──────────────┐
+    │  EVALUATION  │
+    │ Confidence   │
+    │ Risk         │
+    │ Feedback     │
+    └──────▲───────┘
+           │
+    ┌──────────────┐
+    │   DECISION   │
+    │ IntelliScope │
+    └──────▲───────┘
+           │
+    ┌──────────────┐
+    │    AGENT     │
+    │ AgentFactory │
+    └──────▲───────┘
+           │
+    ┌──────────────┐
+    │   CONTEXT    │
+    │ IntelliMesh  │
+    └──────────────┘
 
 ---
 
