@@ -10,15 +10,12 @@ GenAI • Agentic Systems • Decision Intelligence
 
 ## 🌐 Presence  
 
-🌐 **[AditiKhare.com](https://aditikhare.com)**  
-*Enterprise AI Product Ecosystem | Decision Intelligence*  
+## 🌐 Presence  
 
-🤗 **[Live Product — LIS Decision Intelligence Architecture](https://huggingface.co/spaces/AditiShashiKhare/LIS-Decision-Intelligence-Architecture)**  
-
-💻 **[GitHub — LIS Architecture Repository](https://github.com/aditikhare007/lis-decision-intelligence-architecture)**  
-
-💼 **[LinkedIn — Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)**  
-
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub:** [aditikhare007](https://github.com/aditikhare007/lis-decision-intelligence-architecture)  
+🤗 **Hugging Face:** [AditiShashiKhare](https://huggingface.co/spaces/AditiShashiKhare/LIS-Decision-Intelligence-Architecture)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 ---
 
 ## 🧠 Abstract  
