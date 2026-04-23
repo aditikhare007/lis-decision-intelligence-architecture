@@ -144,7 +144,7 @@ MIT License
 
 If you find LIS useful or insightful:
 
-⭐ **Star this repository** to support the work  
+⭐ **Star this repository** to support my work  
 
 🌐 **AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence**
 
